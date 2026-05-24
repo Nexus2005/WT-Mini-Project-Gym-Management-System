@@ -1,0 +1,18 @@
+# Database connection file containing credentials
+config/db.php
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Log files
+*.log
