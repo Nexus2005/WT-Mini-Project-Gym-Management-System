@@ -142,3 +142,5 @@ If you run into issues logging in or need to reset the admin user:
 - **`.gitignore` Integration**: The file `config/db.php` is explicitly ignored by Git rules. This prevents database usernames, passwords, or production server configs from being pushed to public GitHub repositories.
 - **Password Hashing**: Admin passwords are encrypted using PHP's `password_hash()` with `PASSWORD_BCRYPT` before saving to MySQL.
 - **SQL Injection Prevention**: All queries are executed using PDO Prepared Statements with parameterized placeholders.
+
+hotel-management-system, web-technology, wt-project, php, xampp, angularjs, javascript, mysql, full-stack, apache-server, single-page-application, crud-application, sppu, mumbai-university, btech-project, college-lab
